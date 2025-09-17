@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoganAC34
-- 👀 I’m interested in Python, Batch, and coding in general.
-- 🌱 I’m currently learning Python and Batch scripting.
+- 👀 I’m interested in Python and coding in general.
+- 🌱 I’m currently learning Python.
 - 📫 Contact me though GitHub
 
 <!---
