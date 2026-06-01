@@ -22,7 +22,7 @@ A Python app I wrote from scratch to integrate into 3ds Max, allowing batch rend
 
 - I love tech in all forms, hardware, software, and everything in between.
 - 3D printing enthusiast: I enjoy designing and printing functional parts and gadgets.
-- Serial PC builder: I've built (and rebuilt) my own computers several times.
+- PC builder: I've built (and rebuilt) my own computers several times.
 - Always tinkering with automation to make life easier.
 
 ## 📫 Get in Touch
